@@ -1,6 +1,5 @@
 				Ninja Renegado - O Jogo
 
 	Hanzo, nosso personagem principal é um ninja renegado que foi exilado de sua vila devido a um crime que ele não cometeu e agora precisa lutar para recuperar sua honra e provar sua inocência. 
-
-	criado por maycon
-	
+   Momento díficil de hanzo,mas ele vai ter que provar sua inocência através do jogo que vale 10 pontos.
+   ele vai ter que criar um jogo mocinho e o vilão.Vilão o mal da histórias especializado em artes de guerra,espionagem, sabotagem, infiltração e assassinato e o mocinho o personagem que está do lado do bem, praticando boas ações, geralmente é o personagem principal.
